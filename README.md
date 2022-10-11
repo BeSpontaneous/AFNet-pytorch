@@ -5,7 +5,7 @@
     <a><img src="fig/neu.png"  height="70px" ></a>
 </div>
 
- [open review](https://openreview.net/forum?id=owZdBnUiw2) | arXiv | Primary contact: [Yitian Zhang](mailto:markcheung9248@gmail.com)
+arXiv | Primary contact: [Yitian Zhang](mailto:markcheung9248@gmail.com)
 
 <div align="center">
   <img src="fig/intro.jpeg" width="850px" height="150px">
