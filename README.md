@@ -5,11 +5,7 @@
     <a><img src="fig/neu.png"  height="70px" ></a>
 </div>
 
-<<<<<<< Updated upstream
-arXiv | Primary contact: [Yitian Zhang](mailto:markcheung9248@gmail.com)
-=======
 [arXiv](https://arxiv.org/abs/2211.09992) | Primary contact: [Yitian Zhang](mailto:markcheung9248@gmail.com)
->>>>>>> Stashed changes
 
 <div align="center">
   <img src="fig/intro.jpeg" width="850px" height="150px">
@@ -17,9 +13,6 @@ arXiv | Primary contact: [Yitian Zhang](mailto:markcheung9248@gmail.com)
 
 Comparisons between existing methods and our proposed Ample and Focal Network (AFNet). Most existing works reduce the redundancy in data at the beginning of the deep networks which leads to the loss of information. We propose a two-branch design which processes frames with different computational resources within the network and preserves all input information as well.
 
-<<<<<<< Updated upstream
-## Code will be available soon. (seriously:monkey::monkey::monkey:)
-=======
 
 ## Requirements
 - python 3.7
@@ -92,4 +85,3 @@ If you find our code or paper useful for your research, please cite:
   year={2022}
 }
 ```
->>>>>>> Stashed changes
